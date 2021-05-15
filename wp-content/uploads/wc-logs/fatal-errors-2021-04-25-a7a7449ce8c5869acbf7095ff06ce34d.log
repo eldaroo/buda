@@ -1,0 +1,12 @@
+2021-04-25T00:11:06+00:00 CRITICAL Object of class WP_User could not be converted to string en C:\wamp64\www\buda\wp-content\themes\jobhunt\header-v1.php en la línea 36
+
+2021-04-25T00:24:12+00:00 CRITICAL syntax error, unexpected end of file en C:\wamp64\www\buda\wp-content\themes\jobhunt\header-v1.php en la línea 104
+
+2021-04-25T00:56:27+00:00 CRITICAL syntax error, unexpected end of file en C:\wamp64\www\buda\wp-content\themes\jobhunt\header-v1.php en la línea 97
+
+2021-04-25T00:57:10+00:00 CRITICAL syntax error, unexpected end of file en C:\wamp64\www\buda\wp-content\themes\jobhunt\header-v1.php en la línea 99
+
+2021-04-25T00:58:56+00:00 CRITICAL syntax error, unexpected end of file en C:\wamp64\www\buda\wp-content\themes\jobhunt\header-v1.php en la línea 98
+
+2021-04-25T02:28:24+00:00 CRITICAL syntax error, unexpected end of file en C:\wamp64\www\buda\wp-content\themes\jobhunt\inc\template-functions\header.php en la línea 329
+

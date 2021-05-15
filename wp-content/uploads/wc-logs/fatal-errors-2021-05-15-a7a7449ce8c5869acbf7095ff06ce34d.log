@@ -1,0 +1,8 @@
+2021-05-15T00:18:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\wamp64\www\buda\wp-includes\Requests\Transport\cURL.php en la línea 462
+
+2021-05-15T02:18:12+00:00 CRITICAL Object of class WP_Post could not be converted to string en C:\wamp64\www\buda\wp-content\plugins\wp-job-manager\wp-job-manager-template.php en la línea 816
+
+2021-05-15T02:19:34+00:00 CRITICAL Object of class WP_Post could not be converted to string en C:\wamp64\www\buda\wp-content\plugins\wp-job-manager\wp-job-manager-template.php en la línea 816
+
+2021-05-15T02:25:26+00:00 CRITICAL Object of class WP_Post could not be converted to string en C:\wamp64\www\buda\wp-content\plugins\wp-job-manager\wp-job-manager-template.php en la línea 816
+
