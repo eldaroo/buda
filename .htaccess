@@ -3,21 +3,14 @@
 # Las directivas (líneas) entre "BEGIN WordPress" y "END WordPress" son
 # generadas dinámicamente, y solo deberían ser modificadas mediante filtros de WordPress.
 # Cualquier cambio en las directivas que hay entre esos marcadores serán sobrescritas.
-
-php_value upload_max_filesize 64M
-php_value post_max_size 128M
-php_value memory_limit 256M
-php_value max_execution_time 300
-php_value max_input_time 300
-
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /buda/
+RewriteBase /buda-desarrollo/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /buda/index.php [L]
+RewriteRule . /buda-desarrollo/index.php [L]
 </IfModule>
 
 # END WordPress
