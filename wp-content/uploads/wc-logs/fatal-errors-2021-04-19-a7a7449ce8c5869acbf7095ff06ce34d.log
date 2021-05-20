@@ -1,8 +1,0 @@
-2021-04-19T01:36:37+00:00 CRITICAL Cannot redeclare WP_Job_Manager_Shortcodes::output_job() in C:\wamp64\www\buda\wp-content\plugins\wp-job-manager\includes\class-wp-job-manager-shortcodes.php on line 900
-
-2021-04-19T01:39:46+00:00 CRITICAL Cannot redeclare WP_Job_Manager_Shortcodes::output_jobs() in C:\wamp64\www\buda\wp-content\plugins\wp-job-manager\includes\class-wp-job-manager-shortcodes.php on line 716
-
-2021-04-19T01:39:52+00:00 CRITICAL Cannot redeclare WP_Job_Manager_Shortcodes::output_jobs() in C:\wamp64\www\buda\wp-content\plugins\wp-job-manager\includes\class-wp-job-manager-shortcodes.php on line 716
-
-2021-04-19T01:39:55+00:00 CRITICAL Cannot redeclare WP_Job_Manager_Shortcodes::output_jobs() in C:\wamp64\www\buda\wp-content\plugins\wp-job-manager\includes\class-wp-job-manager-shortcodes.php on line 716
-
